@@ -1,5 +1,5 @@
 <template>
-    <h1>fghgjhjh</h1>
+    <h1>Times</h1>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 <template>
-    <h1>jddbdbg</h1>
+    <h1>Jogos do Ano</h1>
 </template>
 
 <style>

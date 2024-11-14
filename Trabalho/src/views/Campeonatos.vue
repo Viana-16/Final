@@ -1,5 +1,5 @@
 <template>
-    <h1>hjsvdfdyvfv</h1>
+    <h1>Competições</h1>
 </template>
 
 <script>
