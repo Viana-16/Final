@@ -20,6 +20,20 @@
                 <h2 class="reports-card-title">Cristiano Ronaldo afirma: "Continuo sendo o Maior Artilheiro"</h2>
             </div>
         </div>
+        <div class="reports2">
+            <div class="reportes2-card" id="card1">
+                <h2 class="reports2-card-title">Ainda em transição, Luiz Araújo está fora de Cuiabá x Flamengo</h2>
+                 o Flamengo tem mais um desfalque confirmado para o duelo com o Cuiabá, nesta quarta-feira, às 19h 
+                (de Brasília).
+                
+            </div>
+            <div class="reportes2-card" id="card1">
+                <h2 class="reports2-card-title">Memphis publica vídeo de incentivo a jogador do Corinthians</h2>
+                Memphis Depay usou as redes sociais para incentivar Ruan Oliveira durante o longo processo de recuperação no Corinthians.
+            </div>
+            Brazilians Shorts
+        </div>
+
 
     </div>
 </template>
