@@ -23,13 +23,6 @@ components:{
 }
 </script>
 
-<style>
-
-</style>
-<script>
-
-</script>
-
 
 <style scoped>
 

@@ -36,6 +36,8 @@
         <li><router-link to="/Jogos" class="navbar-link">Jogos</router-link></li>
         <li><router-link to="/times" class="navbar-link">Times</router-link></li>
         <li><router-link to="/campeonatos" class="navbar-link">Campeonatos</router-link></li>
+        <li><router-link to="/entrar" class="navbar-link">Entrar</router-link></li>
+        <li><router-link to="/cadastrar" class="navbar-link">Cadastro</router-link></li>
       </ul>
     </nav>
   </template>

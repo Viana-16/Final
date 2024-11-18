@@ -114,4 +114,17 @@
   .social-link:hover {
     color: #ffffff;
   }
+
+  .fa-facebook-f:hover{
+    color: #ffffff;
+  }
+  .fa-x-twitter:hover{
+    color: #ffffff;
+  }
+  .fa-instagram:hover{
+    color: #ffffff;
+  }
+  .fa-youtube:hover{
+    color: #ffffff;
+  }
   </style>
